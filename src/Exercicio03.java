@@ -1,4 +1,4 @@
-public class Questao3 {
+public class Exercicio03 {
     public static void main(String[] args) {
         //Imprima todos os múltiplos de 3, entre 1 e 100.
         int i;
