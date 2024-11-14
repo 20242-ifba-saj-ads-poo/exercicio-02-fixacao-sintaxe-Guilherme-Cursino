@@ -1,6 +1,6 @@
 public class Exercicio03 {
     public static void main(String[] args) {
-        //Imprima todos os múltiplos de 3, entre 1 e 100.
+        //Imprima todos os mÃºltiplos de 3, entre 1 e 100.
         int i;
 
         for(i = 1; i <= 100; i++){
